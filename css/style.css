@@ -1,0 +1,17 @@
+.div{
+    width: 60%;
+    height: 50vh;
+    background-color: aqua;
+    margin-left: 300px;
+    margin-top: 110px;
+}
+.input{
+    width: 630px;
+    height: 40px;
+    background-color: darkgray;
+}
+.button{
+    height: 40px;
+    width: 100px;
+    margin-left: -5px;
+}
